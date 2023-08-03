@@ -52,6 +52,7 @@ MNEMONICS="REPLACE WITH YOUR SEED KEYS!"
 
 1. simply open the terminal and run : ```node runbot.js``` command ! Make sure u are in the same directory where the bot is installed !
 ![image](https://github.com/0xAanya/Suiquest2/assets/95902545/80894f75-15bb-4317-88dc-bf96f0867b2f)
+2. To stop the bot simple press `ctrl + c` 2-4 times 
 
 # Features
 
