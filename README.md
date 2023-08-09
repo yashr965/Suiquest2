@@ -33,7 +33,7 @@ SECRET_KEY="REPLACE WITH YOUR PRIVATE KEY "
 # Any mnemonics you owned.
 MNEMONICS="REPLACE WITH YOUR SEED KEYS!"
 ```
-![image](https://github.com/0xAanya/Suiquest2/assets/95902545/986031b1-5adf-443a-9025-672a71a25f03)
+![image](https://github.com/0xAnaya/Suiquest2/assets/95902545/986031b1-5adf-443a-9025-672a71a25f03)
 
 4. Go to `bot` Folder then `index.spec.ts` file and check these lines if you wanted to change !! [at start there is 1 SUI Used u can set it at any number] 
 ![image](https://github.com/0xAanya/Suiquest2/assets/95902545/98e021be-ea80-485d-b23b-043106524ddd)
